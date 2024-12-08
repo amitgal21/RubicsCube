@@ -125,5 +125,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For questions or feedback:
-- **Email:** yourname@example.com
-- **GitHub:** [YourUsername](https://github.com/<your-username>)
+- **Email:** Amitshitrit212@gmail.com // idan.nave.dev@gmail.com
+- **GitHub:** https://github.com/amitgal21
